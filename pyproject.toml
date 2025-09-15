@@ -15,5 +15,5 @@ dev = [
 
 [tool.uv.workspace]
 members = [
-    "hello-ci-cd-projcet",
+    "hello-ci-cd-project",
 ]
