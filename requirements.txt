@@ -2,6 +2,3 @@ bcrypt==3.2.2
 click==8.1.6
 Jinja2==3.1.2
 pipx==1.4.3
-python-apt==2.7.7+ubuntu5.1
-PyYAML==6.0.1
-systemd-python==235
